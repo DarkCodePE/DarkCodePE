@@ -18,7 +18,7 @@
 
 - 📫 Puedes contactarme en mis redes sociales o en mi **<a href="mailto:nexuscode25@gmail.com">Correo</a>**
 
-- 📄 ¿Quieres ver mis trabajos? [https://denilsonarguello.com/#trabajos](https://denilsonarguello.com/#trabajos)
+- 📄 ¿Quieres ver mis trabajos? [https://darkcodepe.github.io/portfolio/](https://darkcodepe.github.io/portfolio/)
 
 ### <h2 align="center">
 
