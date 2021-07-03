@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Orlando Kuan! </h3>
 
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Fullstack Developer 👨‍💻</h3>
 
 ### <h2 align="center"> 
   
@@ -10,11 +10,11 @@
 
 - 🔭Actualmente trabajo de **Freelancer**
 
-- 🌱 Actualmente estoy aprendiendo **<b>Java, .Net Core y Angular</b>**
+- 🌱 Actualmente estoy aprendiendo **<b>, .Net Core y Dart </b>**
 
 - 👯 Todos mis proyectos estan disponibles en **<a href="https://github.com/DarkCodePE">Github</a>**
 
-- 💬 Puedes preguntarme todo sobre **PHP, Javascript, Typescript y CSS**
+- 💬 Puedes preguntarme todo sobre **PHP, Javascript, Typescript, Java y CSS**
 
 - 📫 Puedes contactarme en mis redes sociales o en mi **<a href="mailto:nexuscode25@gmail.com">Correo</a>**
 
@@ -30,7 +30,7 @@
 ### <h2 align="center">  
 <h3 align="left"> My knowledge </h3>
   
-:computer: Main programming languages & development technologies
+### :computer: Main programming languages & development technologies
 
 <p align="left"> 
 <a href="https://www.docker.com/" target="_blank"> 
@@ -50,7 +50,7 @@
 </a>    
 </p>
  
-:minidisc: Database technologies & Structured Query Language  
+### 🗄️ Database technologies & Structured Query Language  
 <p align="left"> 
   <a href="https://www.postgresql.org/" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
@@ -72,7 +72,7 @@
  </a>
 </p>  
   
-### :pushpin: framework and libraries
+### ⚙️ framework and libraries
 <p align="left"> 
   <a href="https://expressjs.com/es/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
@@ -103,7 +103,7 @@
   </a> 
 </p>   
   
-### :pushpin: Tools
+### 🛠️ Tools
   <p align="left"> 
      <a href="https://git-scm.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="prometheusio" width="40" height="40"/> 
@@ -154,3 +154,7 @@
       <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
     </a> 
   </p>    
+  
+  ### <h2 align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkCodePE&show_icons=true&locale=en&layout=compact" alt="DarkCodePE" /></p>
+  <p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=DarkCodePE&show_icons=true&locale=en" alt="DarkCodePE" /></p>
