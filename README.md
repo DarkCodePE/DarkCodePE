@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=DarkCodePE&label=Profile%20views&color=0e75b6&style=flat" alt="orlandokaun" />
 </p>
 
-- 🔭Actualmente trabajo de **Freelancer**
+- 🔭Actualmente trabajo de **Everis NTT DATA**
 
 - 🌱 Actualmente estoy aprendiendo **<b>, .Net Core y Dart </b>**
 
