@@ -51,6 +51,8 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/Q/qdrant-icon-logo-843D18553D-seeklogo.com.png" alt="Qdrant" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" alt="Chroma" width="40" height="40"/>
 </p>
 
 #### Herramientas DevOps y CI/CD:
@@ -79,7 +81,8 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-  <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="LangChain" width="40" height="40"/>
+  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="100" height="40"/>
+  <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" alt="LangGraph" width="100" height="40"/>
 </p>
 ---
 
