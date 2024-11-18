@@ -5,10 +5,10 @@
 
 ### Sobre mí:
 - 🔭 Actualmente trabajo en **[Movistar (Telefónica Hispam)](https://www.telefonica.com/)**
-- 🌱 Actualmente aprendiendo **.NET Core y Dart**
-- 💬 Puedes preguntarme sobre **FastAPI, Langchain, PHP, JavaScript, TypeScript, Java y CSS**
-- 📫 Puedes contactarme en **[LinkedIn](https://www.linkedin.com/in/orlando-kuan)** o a través de mi **[correo electrónico](mailto:nexuscode25@gmail.com)**
-- 🌐 ¿Quieres ver mis proyectos? **[Portafolio](https://darkcodepe.github.io/portfolio/)**
+- 🌱 Aprendiendo **Terraform y Dart**
+- 💬 Pregúntame sobre **FastAPI, Langchain, PHP, JavaScript, TypeScript, Java y CSS**
+- 📫 Contáctame en **[LinkedIn](https://www.linkedin.com/in/orlando-kuan)** o por **[correo electrónico](mailto:nexuscode25@gmail.com)**
+- 🌐 Visita mi **[Portafolio](https://darkcodepe.github.io/portfolio/)**
 
 ---
 
@@ -20,34 +20,79 @@
 
 ---
 
-### 🚀 Skills técnicas destacadas:
+### 🚀 Skills Técnicas Destacadas:
+
 #### Lenguajes de Programación:
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Nativo" width="40" height="40"/>
 </p>
 
-#### Herramientas DevOps:
+#### Frameworks y Librerías:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/quarkusio/quarkusio-icon.svg" alt="Quarkus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>
+</p>
+
+#### Bases de Datos:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+</p>
+
+#### Herramientas DevOps y CI/CD:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="ArgoCD" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
 </p>
 
+#### UI/UX y Frameworks de Diseño:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+#### Herramientas de Colaboración y Gestión:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/>
+</p>
+
+#### Plataformas y Frameworks Adicionales:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="LangChain" width="40" height="40"/>
+</p>
 ---
 
-### 🏆 Proyectos más recientes:
+### 🏆 Proyectos Más Recientes:
+
 - **Generación de Proyecciones y Reportes con FastAPI**:
   - **Detalles**: Diseñé un flujo para generar reportes en formato XLS, gestionando concurrencia y optimización de memoria.
   - **Tecnologías**: Python, FastAPI, SQLAlchemy.
-  - **Repositorio**: [Ver código aquí](#).
+  - **Repositorio**: [Ver código aquí](#)
 
 - **Orquestación en RAG (Retrieval-Augmented Generation)**:
-  - **Detalles**: Integré Langchain y Qdrant para mejorar la recuperación de documentos en aplicaciones educativas.
-  - **Repositorio**: [Ver código aquí](#).
+  - **Detalles**: Integré LangChain y Qdrant para mejorar la recuperación de documentos en aplicaciones educativas.
+  - **Repositorio**: [Ver código aquí](#)
 
 - **Pipeline CI/CD con Jenkins y Kubernetes**:
   - **Detalles**: Configuré pipelines que incluyen despliegue automático con Helm y monitoreo en Prometheus.
@@ -57,12 +102,11 @@
 
 ---
 
-### 🔗 Conéctate conmigo:
+### 🔗 Conéctate Conmigo:
 <p align="left">
 <a href="https://twitter.com/natural_select1" target="_blank">
   <img src="https://img.shields.io/twitter/follow/natural_select1?logo=twitter&style=for-the-badge" alt="Twitter: @natural_select1" />
 </a>
 <a href="https://www.linkedin.com/in/orlando-kuan/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn: Orlando Kuan" />
-</a>
-</p>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"
+::contentReference[oaicite:0]{index=0}
