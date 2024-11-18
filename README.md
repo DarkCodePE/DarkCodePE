@@ -36,7 +36,7 @@
 #### Frameworks y Librerías:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/quarkusio/quarkusio-icon.svg" alt="Quarkus" width="40" height="40"/>
+  <img src="https://quarkus.io/assets/images/quarkus_logo_horizontal_rgb_600px_reverse.png" alt="Quarkus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React JS" width="40" height="40"/>
