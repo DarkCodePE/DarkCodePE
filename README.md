@@ -157,4 +157,5 @@
   
   ### <h2 align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkCodePE&show_icons=true&locale=en&layout=compact" alt="DarkCodePE" /></p>
-  <p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=DarkCodePE&show_icons=true&locale=en" alt="DarkCodePE" /></p>
+  <p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=DarkCodePE&show_icons=true&locale=es" alt="DarkCodePE" /></p>
+  <p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=DarkCodePE&hide=contribs,prs" alt="DarkCodePE" /></p>
